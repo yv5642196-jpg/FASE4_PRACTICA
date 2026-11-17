@@ -1,0 +1,16 @@
+[2026-11-16 23:29:57] [INFO] - === INICIO DE SIMULACIÓN ===
+[2026-11-16 23:29:57] [ERROR] - Validación de nombre fallida para ID C02: El nombre debe tener al menos 3 caracteres.
+[2026-11-16 23:29:57] [ERROR] - Validación de correo fallida para ID C03: Formato de correo electrónico inválido (falta '@').
+[2026-11-16 23:29:57] [INFO] - Iniciando creación de reserva R01.
+[2026-11-16 23:29:57] [INFO] - Reserva R01 confirmada. Costo: $228.0
+[2026-11-16 23:29:57] [INFO] - Proceso de confirmación finalizado para reserva R01.
+[2026-11-16 23:29:57] [INFO] - Iniciando creación de reserva R02.
+[2026-11-16 23:29:57] [ERROR] - Fallo al confirmar reserva R02: El servicio Sala de Conferencias A no está disponible.
+[2026-11-16 23:29:57] [INFO] - Proceso de confirmación finalizado para reserva R02.
+[2026-11-16 23:29:57] [INFO] - Iniciando creación de reserva R03.
+[2026-11-16 23:29:57] [ERROR] - Cálculo fallido en ServicioEquipo E01: Los días de alquiler de equipo deben ser mayores a cero.
+[2026-11-16 23:29:57] [ERROR] - Error inesperado en reserva R03: Los días de alquiler de equipo deben ser mayores a cero.
+[2026-11-16 23:29:57] [INFO] - Proceso de confirmación finalizado para reserva R03.
+[2026-11-16 23:29:57] [INFO] - Iniciando creación de reserva R04.
+[2026-11-16 23:29:57] [INFO] - Reserva R04 confirmada. Costo: $228.0
+[2026-11-16 23:29:57] [INFO] - Proceso de confirmación finalizado para reserva R04.
